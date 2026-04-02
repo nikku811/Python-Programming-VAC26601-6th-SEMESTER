@@ -20,20 +20,9 @@
 ### 2. Verification Command
 To verify if Python is installed correctly, open your terminal (Git Bash) and run:
 ```bash
-python --version
-## ⚙️ 3. Environment Configuration
-
-To create a professional development workflow, the following setup was performed:
-
-* **Primary Editor:** Installed **Visual Studio Code (VS Code)** for writing and debugging code.
-* **Python Support:** Installed the official **Python Extension (by Microsoft)** within VS Code for IntelliSense and linting.
-* **Terminal Setup:** Configured **Git Bash** as the integrated terminal to provide a Linux-like command-line experience on Windows.
-
----
 
 ## 🖥️ Output Verification
-
-After successful installation and configuration, the Python interpreter was verified using the terminal.
+After successful installation, the Python interpreter was verified.
 
 ### **Command:**
 ```bash
