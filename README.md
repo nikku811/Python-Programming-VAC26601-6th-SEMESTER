@@ -19,11 +19,8 @@
 
 ### 2. Verification Command
 To verify if Python is installed correctly, open your terminal (Git Bash) and run:
-```bash
 
-## 🖥️ Output Verification
-After successful installation, the Python interpreter was verified.
 
 ### **Command:**
-```bash
+bash
 python --version
