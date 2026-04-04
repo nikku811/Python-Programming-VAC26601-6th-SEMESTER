@@ -1,4 +1,3 @@
-# Python-Programming-VAC26601-6th-SEMESTER
 # Experiment 1: Python Installation and Configuration
 
 ## 📌 Aim
