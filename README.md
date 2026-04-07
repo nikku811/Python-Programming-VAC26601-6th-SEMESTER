@@ -1,3 +1,5 @@
+## Author : Ram Narayan
+
 # Python Experiments Lab
 
 Welcome to the Python Experiments repository! This collection contains various Python scripts and practical implementations spanning topics from basic programming constructs to data structure management, file interaction, exception handling, and Python environment setup.
